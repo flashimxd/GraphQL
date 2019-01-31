@@ -1,0 +1,11 @@
+{
+    "users" : [
+        { "id": "55", "firstName": "Luiz Gonzaga", "age": 73 },
+        { "id": "99", "firstName": "Bruno Roberto", "age": 19 },
+        { "id": "99", "firstName": "Cazuza Millenos", "age": 35 }
+    ],
+    "companies" :[
+        { "id": "1", "name": "Leapchat", "description": "CX & Customer service" },
+        { "id": "2", "name": "Geetrak", "description": "Vehicle track & GPS" }
+    ]
+}
