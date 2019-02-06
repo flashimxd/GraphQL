@@ -1,8 +1,8 @@
 {
     "users" : [
-        { "id": "55", "firstName": "Luiz Gonzaga", "age": 73 },
-        { "id": "99", "firstName": "Bruno Roberto", "age": 19 },
-        { "id": "99", "firstName": "Cazuza Millenos", "age": 35 }
+        { "id": "55", "firstName": "Luiz Gonzaga", "age": 73, "companyId": 1 },
+        { "id": "99", "firstName": "Bruno Roberto", "age": 19, "companyId": 2 },
+        { "id": "99", "firstName": "Cazuza Millenos", "age": 35, "companyId": 1 }
     ],
     "companies" :[
         { "id": "1", "name": "Leapchat", "description": "CX & Customer service" },
